@@ -8,7 +8,7 @@ Este projeto apresenta uma análise descritiva de um conjunto de dados utilizand
 - **Pandas**: Manipulação e análise de dados tabulares.
 - **Seaborn** e **Matplotlib**: Criação de visualizações gráficas.
 - **ydata-profiling**: Geração de relatórios automatizados para análise exploratória.
-- **Jupyter Notebook**: Ambiente interativo para execução do código.
+- **Jupyter Notebook/Google Colab**: Ambiente interativo para execução do código.
 
 ## Estrutura do Projeto
 
